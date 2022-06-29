@@ -41,3 +41,7 @@ code {
 ::-webkit-scrollbar-thumb:hover {
   background: #7ce6f3;
 }
+
+.homediv {
+  color: red; 
+}
