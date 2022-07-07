@@ -14,7 +14,7 @@
     "evergreen-ui": "^4.28.1",
     "graphql": "^15.0.0",
     "graphql-tag": "^2.10.3",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "normalize.css": "^8.0.1",
     "numeral": "^2.0.6",
     "react": "^16.13.1",
